@@ -121,8 +121,8 @@
                                 </span>
                             </a>
                             <ul class="treeview-menu">
-                                <li><a href="#"><i class="fa fa-cart-arrow-down"></i>Nuevo Trueque</a></li>
-                                <li><a href="#"><i class="fa fa-tags"></i>Administrar Trueques</a></li>
+                                <li><a href="/sistema2/vistas/productos.jsp"><i class="fa fa-cart-arrow-down"></i>Nuevo Trueque</a></li>
+                                <li><a  href="/sistema2/vistas/insertarproducto.jsp"><i class="fa fa-tags"></i>Insertar producto</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -221,7 +221,7 @@
                     Anything you want
                 </div>
                 <!-- Default to the left -->
-                <strong>Copyright &copy; 2020 <a href="#">IDAT</a>.</strong> Todos los derechos reservados.
+                <strong> <a href="#"></a>.</strong> 
             </footer>
 
             <div class="control-sidebar-bg"></div>

@@ -9,7 +9,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Sistema Bodega| Inicio</title>
+        <title>Sistema Trueque| Inicio</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -37,7 +37,7 @@
                     <!-- mini logo for sidebar mini 50x50 pixels -->
                     <span class="logo-mini"><b>S</b>BL</span>
                     <!-- logo for regular state and mobile devices -->
-                    <span class="logo-lg"><b>Sistema </b>Bodega</span>
+                    <span class="logo-lg"><b>Sistema </b>Trueque</span>
                 </a>
 
                 <!-- Header Navbar -->
@@ -136,8 +136,8 @@
                                 </span>
                             </a>
                             <ul class="treeview-menu">
-                                <li><a href="#"><i class="fa fa-cart-arrow-down"></i>Nuevo Trueque</a></li>
-                                <li><a href="#"><i class="fa fa-tags"></i>Administrar Trueques</a></li>
+                                <li><a href="/sistema2/vistas/productos.jsp"><i class="fa fa-cart-arrow-down"></i>Nuevo Trueque</a></li>
+                                <li><a  href="/sistema2/vistas/insertarproducto.jsp"><i class="fa fa-tags"></i>Insertar producto</a></li>
                             </ul>
                         </li>
                         <li class="treeview">
@@ -243,10 +243,10 @@
             <footer class="main-footer">
                 <!-- To the right -->
                 <div class="pull-right hidden-xs">
-                    Anything you want
+                    
                 </div>
                 <!-- Default to the left -->
-                <strong>Copyright &copy; 2020 <a href="#">IDAT</a>.</strong> Todos los derechos reservados.
+                <strong> <a href="#"></a>.</strong> 
             </footer>
 
             <div class="control-sidebar-bg"></div>
